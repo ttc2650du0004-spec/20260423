@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background: rgb(209, 182, 251);
+    color: rgb(223, 41, 255);
+}
+
+hl {
+    color: grey;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 1px solid red
+}
